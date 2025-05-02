@@ -21,4 +21,4 @@ Average Product Price: ₹807.51
 Top Payment Methods: Online, Credit Card, Cash, Debit Card
 Gender-Based Customer Insights
 Time-Based Trends (Daily, Monthly, Quarterly)
-![Screenshot 2025-05-02 222312](https://github.com/user-attachments/assets/fc2821f8-ad81-4693-824c-7d1aa2d88235)
+
