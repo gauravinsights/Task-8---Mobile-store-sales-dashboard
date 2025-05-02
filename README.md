@@ -1,5 +1,7 @@
 📱 Mobile Sales Dashboard - Power BI Project
+
 This repository contains an interactive Mobile Sales Dashboard built using Power BI. The dashboard provides a comprehensive view of mobile sales performance, customer behavior, and payment methods.
+
 
 📊 Key Features
 🔄 Real-time data updates
@@ -10,6 +12,7 @@ This repository contains an interactive Mobile Sales Dashboard built using Power
 📦 Quantity sold by month and gender
 
 ⚙️ Tools & Technologies
+
 Power BI Desktop
 DAX (Data Analysis Expressions)
 Power Query (ETL)
